@@ -6,4 +6,4 @@ cd Black-Mrx
 
 git pull
 
-python Black-Mrx
+python Black-Mrx.py
