@@ -1,6 +1,6 @@
 cd 
 
-git clone --deph=1 https://github.com/MRXBLACKTEAM/Black-Mrx.git
+git clone --depth=1 https://github.com/MRXBLACKTEAM/Black-Mrx.git
 
 cd Black-Mrx
 
